@@ -1,0 +1,19 @@
+.menu {
+  display: flex;
+  list-style: none;
+  margin: 20px;
+}
+
+.menu-item {
+  margin-right: 20px;
+}
+
+.menu-item > a {
+  text-decoration: none;
+  color: blue;
+}
+
+.page > p {
+  margin: 20px;
+}
+
